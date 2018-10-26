@@ -72,3 +72,8 @@ methods(class='numeric')
 plot(1:10) #Basic command to plot
 
 # Clean console by pressing ctrl+L in the console
+
+
+#Run all commands in the source file test1.R
+#first create an R file with some content in the current dir
+source('test1.R')
